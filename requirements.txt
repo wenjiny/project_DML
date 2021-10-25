@@ -1,0 +1,16 @@
+
+h5py==2.10.0
+n2v
+wget
+fpdf
+memory_profiler
+keras==2.2.5
+keras-nightly~=2.8.0.dev
+tensorboard==1.15.0
+tensorflow-estimator==1.15.1
+tensorflow-gpu==1.15.2
+tensorboard
+gast==0.2.2
+keras==2.2.4
+numpy==1.16.3
+tensorflow
